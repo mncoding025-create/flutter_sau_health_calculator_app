@@ -39,7 +39,7 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/images/calculator.png',
+              'assets/images/Cal.png',
               width: 150,
               height: 150,
               fit: BoxFit.cover,
